@@ -9,30 +9,30 @@ I recorded all the pronunciation myself based on my past experience. Please feel
 
 | Term | Pronunciation | Note |
 | :--: | :-----------: | ---- |
-| Ajax | [/ˈeɪ.dʒæks/]() | |
-| cache | [/kæʃ/]() |  |
-| GIF | [/dʒɪf/]() | | 
-| MySQL | [/ˈmaɪ siːkwəl/]() or [/ˈmaɪ eskjuːˈel/]() | |
-| Nginx | [/ˈendʒɪn eks/]() | |
-| PostgreSQL | [/ˈpoʊst ɡres kjuː el/]() or [/ˈpoʊst ɡre ˈsiːkwəl/]() | [reference](https://www.postgresql.org/community/survey/33-how-do-you-pronounce-postgresql/) |
-| SQL | [/ˈeskjuːˈel/]() or [/ˈsiːkwəl/]() | [reference](https://medium.com/tableplus/how-to-pronounce-sql-properly-s-q-l-or-sequel-7203a5185676) |
+| Ajax | [/ˈeɪ.dʒæks/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/ajax.mp3) | |
+| cache | [/kæʃ/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/cache.mp3) |  |
+| GIF | [/dʒɪf/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/gif.mp3) | | 
+| MySQL |  [/ˈmaɪ eskjuːˈel/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/mysql-1.mp3) or [/ˈmaɪ siːkwəl/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/mysql-2.mp3) | |
+| Nginx | [/ˈendʒɪn eks/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/mysql-3.mp3) | |
+| PostgreSQL | [/ˈpoʊst ɡres/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/postgresql-1.mp3) or [/ˈpoʊst ɡres kjuː el/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/postgresql-2.mp3) or [/ˈpoʊst ɡre ˈsiːkwəl/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/postgresql-3.mp3) | [reference](https://www.postgresql.org/community/survey/33-how-do-you-pronounce-postgresql/) |
+| SQL | [/ˈeskjuːˈel/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/sql-1.mp3) or [/ˈsiːkwəl/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/sql-2.mp3) | [reference](https://medium.com/tableplus/how-to-pronounce-sql-properly-s-q-l-or-sequel-7203a5185676) |
 
 
 ### For non-native speakers
 
 | Term | Pronunciation | Note |
 | :--: | :-----------: | ---- |
-| avatar | [/ˈævətɑːr/]() | |
-| cURL | [/kɝːl/]() | [reference](http://curl.haxx.se/docs/faq.html) | 
-| Django | [/ˈdʒæŋɡoʊ/]() | |
-| Git | [/gɪt/]() | |
-| GitHub | [/ˈgɪthʌb/]() | |
-| Java | [/ˈdʒɑːvə/]() | |
-| JPEG | [/ˈdʒeɪpeɡ/]() | |
-| OS X | O.S. Ten | | 
-| Python | [/ˈpaɪθɑːn/]() | |
-| queue | [/kjuː/]() | |
-| scrum | [/skrʌm/]() | |
-| SQLAlchemy | [/ˈsiːkwəl ˈælkəˌmi/]() | |
-| Ubuntu | [/úɓúːⁿtu/]() | |
-| YAML | [/ˈjæməl/]() | [reference](https://en.wikipedia.org/wiki/YAML) |
+| avatar | [/ˈævətɑːr/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/avatar.mp3) | |
+| cURL | [/kɝːl/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/curl.mp3) | [reference](http://curl.haxx.se/docs/faq.html) | 
+| Django | [/ˈdʒæŋɡoʊ/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/django.mp3) | |
+| Git | [/gɪt/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/git.mp3) | |
+| GitHub | [/ˈgɪthʌb/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/github.mp3) | |
+| Java | [/ˈdʒɑːvə/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/java.mp3) | |
+| JPEG | [/ˈdʒeɪpeɡ/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/jpeg.mp3) | |
+| OS X | [O.S. Ten](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/osx.mp3) | | 
+| Python | [/ˈpaɪθɑːn/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/python.mp3) | |
+| queue | [/kjuː/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/queue.mp3) | |
+| scrum | [/skrʌm/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/scrum.mp3) | |
+| SQLAlchemy | [/ˈsiːkwəl ˈælkəˌmi/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/sqlalchemy.mp3) | |
+| Ubuntu | [/úɓúːⁿtu/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/ubuntu.mp3) | |
+| YAML | [/ˈjæməl/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/yaml.mp3) | [reference](https://en.wikipedia.org/wiki/YAML) |
