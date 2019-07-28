@@ -13,7 +13,7 @@ I recorded all the pronunciation myself based on my past experience. Please feel
 | cache | [/kæʃ/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/cache.mp3) |  |
 | GIF | [/dʒɪf/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/gif.mp3) | | 
 | MySQL |  [/ˈmaɪ eskjuːˈel/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/mysql-1.mp3) or [/ˈmaɪ siːkwəl/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/mysql-2.mp3) | |
-| Nginx | [/ˈendʒɪn eks/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/mysql-3.mp3) | |
+| Nginx | [/ˈendʒɪn eks/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/nginx.mp3) | |
 | PostgreSQL | [/ˈpoʊst ɡres/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/postgresql-1.mp3) or [/ˈpoʊst ɡres kjuː el/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/postgresql-2.mp3) or [/ˈpoʊst ɡre ˈsiːkwəl/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/postgresql-3.mp3) | [reference](https://www.postgresql.org/community/survey/33-how-do-you-pronounce-postgresql/) |
 | SQL | [/ˈeskjuːˈel/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/sql-1.mp3) or [/ˈsiːkwəl/](https://raw.githubusercontent.com/hlwjia/commonly-mispronounced-tech-terms/master/audio/sql-2.mp3) | [reference](https://medium.com/tableplus/how-to-pronounce-sql-properly-s-q-l-or-sequel-7203a5185676) |
 
